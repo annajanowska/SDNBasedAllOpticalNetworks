@@ -1,4 +1,4 @@
-# SDNBasedAllOpticalNetworks
+# SDN Based All Optical Networks
 
 Co-author of scientific paper: **SDN Based All Optical Networks**
 
